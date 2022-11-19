@@ -1,7 +1,4 @@
-
-![e-commerce](https://user-images.githubusercontent.com/111069609/202861785-1344ded9-ca98-4704-bf83-e2506b877b33.jpeg)
-
-Herkese merhaba! ⚡
+### Herkese merhaba! ⚡
 
 SistersLab’in Toplum Gönüllüleri Vakfı tarafından desteklenen Women in Tech Academy proje katılımcılarından biriyim. 
 
@@ -10,6 +7,9 @@ Proje, 20–28 yaş aralığındaki 25 kadını 3 ay boyunca yazılım eğitimle
 Projeyle ilgili daha fazla bilgiye https://sisterslab.co/women-in-tech-academy/ adresinden ulaşabilirsiniz.
 
 Women in Tech Academy bitirme projesi kapsamında Brezilya tabanlı bir online alışveriş sitesinin 9 adet csv dosyası analiz edilmiş ve görselleştirilmiştir. 
+
+
+![image](https://user-images.githubusercontent.com/111069609/202862182-b192e3c2-65ff-4196-80a9-032d974804e4.png)
 
 
 # E- Commerce Dataset
@@ -52,51 +52,68 @@ Women in Tech Academy bitirme projesi kapsamında Brezilya tabanlı bir online a
 * Seaborn
 
 
-![icon e-commerce](https://user-images.githubusercontent.com/111069609/202861709-adaf047e-8ac7-4d94-af04-410a1a8bb992.png)
-
 
 ## Yapılan Analiz ve Görselleştirmeler; 🧠
 ---
 
-* Siparişler ortalama ne kadar tuttu?
+* **Siparişler ortalama ne kadar tuttu?**
 
-* E-ticaret sitesinin müşterileri ve satıcıları çoğunlukla hangi şehirde yaşıyor?
 
-* Ödeme türlerinin birbirlerine oranı.
+* **E-ticaret sitesinin müşterileri ve satıcıları çoğunlukla hangi şehirde yaşıyor?**
+
+
+* **Ödeme türlerinin birbirlerine oranı.**
+
 
 ![odemetipi](https://user-images.githubusercontent.com/111069609/202861607-5a921737-1e72-42fd-852f-dda4a566fc18.png)
 
-* Fiyat arttıkça müşterilerin taksit yapma eğilimi artıyor mu?
+
+* **Fiyat arttıkça müşterilerin taksit yapma eğilimi artıyor mu?**
+
 
 ![taksitOdeme](https://user-images.githubusercontent.com/111069609/202861636-c2e83a70-2eb1-438a-8aa2-64a25af6146a.png)
 
-* Aylara göre sipariş sayısı.
+
+* **Aylara göre sipariş sayısı.**
+
 
 ![aylaraGoreSiparis](https://user-images.githubusercontent.com/111069609/202861650-4b4cc407-92c1-49fd-976d-86e3524c7a59.png)
 
-* Hangi satıcının ne kadar ürün sattığı. 
 
-* Yüksek satış miktarı ile yüksek değerlendirme puanı arasında bir ilişki var mı?
+* **Hangi satıcı ne kadar ürün sattı?** 
+
+
+* **Yüksek satış miktarı ile yüksek değerlendirme puanı arasında bir ilişki var mı?**
+
 
 ![topSiparisOrtDegerlendirme](https://user-images.githubusercontent.com/111069609/202861666-d1c68785-fb41-4b50-a777-921fd4a0ec48.png)
 
-* Hangi kategoriden ne kadar ürün satıldığı.
 
-* Kategorilere göre ortalama fiyat değişimi.
+* **Hangi kategoriden ne kadar ürün satıldı?**
 
-* Satıcıların siparişlerini kargoya verme hızı ortalamaları.
 
-* Ürünlerin müşteriye ortalama ulaştığı süre.
+* **Kategorilere göre ortalama fiyat değişimi.**
 
-* Müşteriler kötü değerlendirmeleri mi yoksa iyi değerlendirmeleri mi daha hızlı bir şekilde yapmaya meyilli? 
+
+* **Satıcıların siparişlerini kargoya verme hızı ortalamaları.**
+
+
+* **Ürünlerin müşteriye ortalama ulaştığı süre.**
+
+
+* **Müşteriler kötü değerlendirmeleri mi yoksa iyi değerlendirmeleri mi daha hızlı bir şekilde yapmaya meyilli?** 
+
 
 ![degerlendirmeZamanPuanİlişkisi](https://user-images.githubusercontent.com/111069609/202861684-1d0c4896-a135-4bbc-9751-f7886772f3fa.png)
 
-* Müşteriler daha çok kötü olarak değerlendirdikleri ürünlere mi yoksa iyi olarak değerlendirdikleri ürünlere mi yorum yapıyorlar? 
+
+* **Müşteriler daha çok kötü olarak değerlendirdikleri ürünlere mi yoksa iyi olarak değerlendirdikleri ürünlere mi yorum yapıyorlar?** 
+
 
 ![yorumsuzanaliz](https://user-images.githubusercontent.com/111069609/202861688-8e9e0fe2-ffdc-47d0-a435-77d0d0cd7801.png)
 
 ![yorumluanaliz](https://user-images.githubusercontent.com/111069609/202861697-e9596584-856a-4afe-a97e-534501124261.png)
 
-* En yüksek ve en düşük puan alan yorumlardaki en sık kullanılan 10 kelime ve 5 cümle. (1 puan ve 5 puan) 
+
+* **En yüksek ve en düşük puan alan yorumlardaki en sık kullanılan 10 kelime ve 5 cümle. (1 puan ve 5 puan)** 
 
