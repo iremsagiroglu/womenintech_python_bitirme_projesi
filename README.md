@@ -1,5 +1,5 @@
 
-![E-Commerce](https://images.app.goo.gl/QdJM41HhZ3h5gw8v8)
+![e-commerce](https://user-images.githubusercontent.com/111069609/202861785-1344ded9-ca98-4704-bf83-e2506b877b33.jpeg)
 
 Herkese merhaba! ⚡
 
@@ -52,7 +52,7 @@ Women in Tech Academy bitirme projesi kapsamında Brezilya tabanlı bir online a
 * Seaborn
 
 
-![E-Commerce Icon](https://thenounproject.com/api/private/icons/5306224/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0&token=gAAAAABjeNq1SiGRRMQc6G_DtYzxJDjjttSf_QXaUPu3HZhjNVlrGH8X_qJYNaxoLQikN027uUAd1x1ykV-32u56emoCCZS19Q%3D%3D)
+![icon e-commerce](https://user-images.githubusercontent.com/111069609/202861709-adaf047e-8ac7-4d94-af04-410a1a8bb992.png)
 
 
 ## Yapılan Analiz ve Görselleştirmeler; 🧠
@@ -64,21 +64,21 @@ Women in Tech Academy bitirme projesi kapsamında Brezilya tabanlı bir online a
 
 * Ödeme türlerinin birbirlerine oranı.
 
-![Ödeme türü oranları](/Users/irems/Desktop/odemetipi.png)
+![odemetipi](https://user-images.githubusercontent.com/111069609/202861607-5a921737-1e72-42fd-852f-dda4a566fc18.png)
 
 * Fiyat arttıkça müşterilerin taksit yapma eğilimi artıyor mu?
 
-![Taksit miktarı ve Tutar](/Users/irems/Desktop/taksitOdeme.png)
+![taksitOdeme](https://user-images.githubusercontent.com/111069609/202861636-c2e83a70-2eb1-438a-8aa2-64a25af6146a.png)
 
 * Aylara göre sipariş sayısı.
 
-![Aylara göre sipariş sayııs](/Users/irems/Desktop/aylaraGoreSiparis.png)
+![aylaraGoreSiparis](https://user-images.githubusercontent.com/111069609/202861650-4b4cc407-92c1-49fd-976d-86e3524c7a59.png)
 
 * Hangi satıcının ne kadar ürün sattığı. 
 
 * Yüksek satış miktarı ile yüksek değerlendirme puanı arasında bir ilişki var mı?
 
-![Yüksek Satış ve Yüksek Değerlendirme](/Users/irems/Desktop/topSiparisOrtDegerlendirme.png)
+![topSiparisOrtDegerlendirme](https://user-images.githubusercontent.com/111069609/202861666-d1c68785-fb41-4b50-a777-921fd4a0ec48.png)
 
 * Hangi kategoriden ne kadar ürün satıldığı.
 
@@ -90,13 +90,13 @@ Women in Tech Academy bitirme projesi kapsamında Brezilya tabanlı bir online a
 
 * Müşteriler kötü değerlendirmeleri mi yoksa iyi değerlendirmeleri mi daha hızlı bir şekilde yapmaya meyilli? 
 
-![Yorum Hızı ve Değerlendirme Puanı İlişkisi](/Users/irems/Desktop/degerlendirmeZamanPuanİlişkisi.png)
+![degerlendirmeZamanPuanİlişkisi](https://user-images.githubusercontent.com/111069609/202861684-1d0c4896-a135-4bbc-9751-f7886772f3fa.png)
 
 * Müşteriler daha çok kötü olarak değerlendirdikleri ürünlere mi yoksa iyi olarak değerlendirdikleri ürünlere mi yorum yapıyorlar? 
 
-![Yorumlu Analiz](/Users/irems/Desktop/yorumluanaliz.png)
+![yorumsuzanaliz](https://user-images.githubusercontent.com/111069609/202861688-8e9e0fe2-ffdc-47d0-a435-77d0d0cd7801.png)
 
-![Yorumsuz Analiz](/Users/irems/Desktop/yorumsuzanaliz.png)
+![yorumluanaliz](https://user-images.githubusercontent.com/111069609/202861697-e9596584-856a-4afe-a97e-534501124261.png)
 
 * En yüksek ve en düşük puan alan yorumlardaki en sık kullanılan 10 kelime ve 5 cümle. (1 puan ve 5 puan) 
 
